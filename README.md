@@ -1,6 +1,6 @@
 # rdp
 
-[https://rdp.netlify.com/]
+https://rdp.netlify.com/
 
 Page that redirects to remotedesktop.google.com, since I access it a lot everyday. Will add addition code that adds functionally later on.
 
